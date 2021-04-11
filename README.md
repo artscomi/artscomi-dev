@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @artscomi-dev
+- 👀 I’m interested in CSS, React and Javascript
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on React projects
+- 📫 How to reach me: artscomi.dev@gmail.com

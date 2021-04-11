@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @artscomi-dev
+- 👋 Hi, I’m Cristina
 - 👀 I’m interested in CSS, React and Javascript
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React projects
